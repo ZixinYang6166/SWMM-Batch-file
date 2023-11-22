@@ -1,0 +1,16 @@
+Self-Organizing Map (SOM)
+Software：MATLAB7
+Program：yzxsom.m
+Example file：yzx_som.xls
+
+Sensitivity Analysis（SA）
+Software：MATLAB7
+Program：yzxSA.m
+Example file：yzx_SA.xls
+
+Batch Automation
+Program language：python
+Program：
+Calibrate.py
+parameters.ini
+Example file：yzxswmmexample.inp（using SWMM5.1）
